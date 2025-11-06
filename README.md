@@ -49,7 +49,7 @@ A simple, Excel-based tool to track water parameters, maintenance, and observati
 
 If this spreadsheet helped you and you'd like to support the project, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow)]([https://www.buymeacoffee.com/yourusername](https://buymeacoffee.com/wizmark )
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow)](https://www.buymeacoffee.com/wizmark)
 
 Your support encourages more tools like this. Thanks for checking it out — and happy fishkeeping! 🐟🌿
 
